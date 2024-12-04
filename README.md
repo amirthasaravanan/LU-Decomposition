@@ -15,7 +15,7 @@ Step 4: Print the variable 'X'.
 
 ## Program:
 (i) To find the L and U matrix
-```
+``` 
 /*
 Program to find the L and U matrix.
 Developed by: AMIRTHA VARSHINI M 
