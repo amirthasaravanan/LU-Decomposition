@@ -18,7 +18,7 @@ Step 4: Print the variable 'X'.
 ## Program:
 (i) To find the L and U matrix
 ``` 
-/*
+
 Program to find the L and U matrix.
 Developed by: AMIRTHA VARSHINI M 
 RegisterNumber: 24901093
@@ -33,7 +33,7 @@ print(U)
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
-/*
+
 Program to find the LU Decomposition of a matrix.
 Developed by: AMIRTHA VARSHINI M
 RegisterNumber: 24901093
@@ -45,18 +45,16 @@ b = np.array(eval(input()))
 lu,piv = lu_factor(A)
 X = lu_solve((lu,piv),b)
 print(X)
-*/
+
 ```
 
 ## Output:
 i) To find the L and U matrix.
-![Screenshot (2008)](https://github.com/user-attachments/assets/b2c7280a-007e-41a0-a436-ed5cae01b78d)
+![ED EX 5 ONE](https://github.com/user-attachments/assets/b5d67300-7dde-4a6d-ab6b-1478635bbbc8)
 
 
 ii) To find the LU Decomposition of a matrix.
-![Screenshot (2009)](https://github.com/user-attachments/assets/deb4a361-258e-4834-91c7-78ac1c035085)
-
-
+![ED EXP 5 TWO](https://github.com/user-attachments/assets/9742cef3-6043-4aaa-934d-9935396e6a3b)
 
 
 
